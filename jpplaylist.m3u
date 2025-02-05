@@ -1,0 +1,227 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="6" tvg-logo="https://live.fanmingming.cn/tv/6.png",6
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/81875
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Asahi" tvg-logo="https://live.fanmingming.cn/tv/Asahi.png",Asahi
+http://jpvip999.dinhluong.jp:727/hls/asahi/index.m3u8
+#EXTINF:-1 tvg-name="AT-X" tvg-logo="https://live.fanmingming.cn/tv/AT-X.png",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-name="AXN海外ドラマ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/AXN海外ドラマ (720p Willfon).png",AXN海外ドラマ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://live.fanmingming.cn/tv/BS Asahi.png",BS Asahi
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://live.fanmingming.cn/tv/BS Fuji.png",BS Fuji
+http://203.162.235.41:16911/
+#EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://live.fanmingming.cn/tv/BS Fuji.png",BS Fuji
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-name="BS Nippon" tvg-logo="https://live.fanmingming.cn/tv/BS Nippon.png",BS Nippon
+http://203.162.235.41:16912/
+#EXTINF:-1 tvg-name="BS Nippon Television" tvg-logo="https://live.fanmingming.cn/tv/BS Nippon Television.png",BS Nippon Television
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://live.fanmingming.cn/tv/BS TBS.png",BS TBS
+http://203.162.235.41:16913/
+#EXTINF:-1 tvg-name="BS TBS JAPAN" tvg-logo="https://live.fanmingming.cn/tv/BS TBS JAPAN.png",BS TBS JAPAN
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-name="BS TOKYO" tvg-logo="https://live.fanmingming.cn/tv/BS TOKYO.png",BS TOKYO
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-name="BS-TBS (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BS-TBS (720p Willfon).png",BS-TBS (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSアニマックス (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BSアニマックス (720p Willfon).png",BSアニマックス (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSスカパー! (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BSスカパー! (720p Willfon).png",BSスカパー! (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSテレ東 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BSテレ東 (720p Willfon).png",BSテレ東 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BSフジ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BSフジ (720p Willfon).png",BSフジ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BS朝日 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BS朝日 (720p Willfon).png",BS朝日 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="BS日テレ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/BS日テレ (720p Willfon).png",BS日テレ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="CNN J (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/CNN J (720p Willfon).png",CNN J (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="FOX (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/FOX (720p Willfon).png",FOX (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="FUJI TELEVISION NETWORK" tvg-logo="https://live.fanmingming.cn/tv/FUJI TELEVISION NETWORK.png",FUJI TELEVISION NETWORK
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-name="Fuji TV (540p MOV3)" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV (540p MOV3).png",Fuji TV (540p MOV3)
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="Fujj TV" tvg-logo="https://live.fanmingming.cn/tv/Fujj TV.png",Fujj TV
+http://203.162.235.41:16904/
+#EXTINF:-1 tvg-name="GAORA (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/GAORA (720p Willfon).png",GAORA (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="Golf Network" tvg-logo="https://live.fanmingming.cn/tv/Golf Network.png",Golf Network
+http://203.162.235.41:16924/
+#EXTINF:-1 tvg-name="Golf Network" tvg-logo="https://live.fanmingming.cn/tv/Golf Network.png",Golf Network
+http://203.162.235.41:16924
+#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://live.fanmingming.cn/tv/GSTV.png",GSTV
+https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf
+#EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://live.fanmingming.cn/tv/Gunma TV.png",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-name="Hiroshima Weather" tvg-logo="https://live.fanmingming.cn/tv/Hiroshima Weather.png",Hiroshima Weather
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Japanet Channel DX" tvg-logo="https://live.fanmingming.cn/tv/Japanet Channel DX.png",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-name="JSPORTS 1 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/JSPORTS 1 (720p Willfon).png",JSPORTS 1 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS 2 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/JSPORTS 2 (720p Willfon).png",JSPORTS 2 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS 3 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/JSPORTS 3 (720p Willfon).png",JSPORTS 3 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="JSPORTS 4 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/JSPORTS 4 (720p Willfon).png",JSPORTS 4 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="LaLaTV (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/LaLaTV (720p Willfon).png",LaLaTV (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="MBS" tvg-logo="https://live.fanmingming.cn/tv/MBS.png",MBS
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-name="Music ON TV! (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/Music ON TV! (720p Willfon).png",Music ON TV! (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="MX Live" tvg-logo="https://live.fanmingming.cn/tv/MX Live.png",MX Live
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-name="NHK" tvg-logo="https://live.fanmingming.cn/tv/NHK.png",NHK
+http://203.162.235.41:16901/
+#EXTINF:-1 tvg-name="NHK BS1" tvg-logo="https://live.fanmingming.cn/tv/NHK BS1.png",NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-name="NHK BS1 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/NHK BS1 (720p Willfon).png",NHK BS1 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK BSP" tvg-logo="https://live.fanmingming.cn/tv/NHK BSP.png",NHK BSP
+http://203.162.235.41:16910/
+#EXTINF:-1 tvg-name="NHK BSプレミアム (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/NHK BSプレミアム (720p Willfon).png",NHK BSプレミアム (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK Chinese" tvg-logo="https://live.fanmingming.cn/tv/NHK Chinese.png",NHK Chinese
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.cn/tv/NHK G.png",NHK G
+http://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
+#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.cn/tv/NHK G.png",NHK G
+http://203.162.235.41:16903/
+#EXTINF:-1 tvg-name="NHK General TV" tvg-logo="https://live.fanmingming.cn/tv/NHK General TV.png",NHK General TV
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-name="NHK Kishou Saigai (Weather and Disaster Prevention JP)" tvg-logo="https://live.fanmingming.cn/tv/NHK Kishou Saigai (Weather and Disaster Prevention JP).png",NHK Kishou Saigai (Weather and Disaster Prevention JP)
+https://nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.cn/tv/NHK World.png",NHK World
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.cn/tv/NHK World.png",NHK World
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-name="NHK World Premium" tvg-logo="https://live.fanmingming.cn/tv/NHK World Premium.png",NHK World Premium
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="https://live.fanmingming.cn/tv/NHKWorld.png",NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="https://live.fanmingming.cn/tv/NHKWorld.png",NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-name="NHK教育 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/NHK教育 (720p Willfon).png",NHK教育 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="NHK総合 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/NHK総合 (720p Willfon).png",NHK総合 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="Nippon TV" tvg-logo="https://live.fanmingming.cn/tv/Nippon TV.png",Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-name="Nippon TV" tvg-logo="https://live.fanmingming.cn/tv/Nippon TV.png",Nippon TV
+http://jpvip999.dinhluong.jp:727/hls/ntv/index.m3u8
+#EXTINF:-1 tvg-name="NIPPON TV" tvg-logo="https://live.fanmingming.cn/tv/NIPPON TV.png",NIPPON TV
+http://203.162.235.41:16905/
+#EXTINF:-1 tvg-name="NTV News 23 Japan" tvg-logo="https://live.fanmingming.cn/tv/NTV News 23 Japan.png",NTV News 23 Japan
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-name="QVC Japan (720p Official)" tvg-logo="https://live.fanmingming.cn/tv/QVC Japan (720p Official).png",QVC Japan (720p Official)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://live.fanmingming.cn/tv/Shop Channel.png",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-name="Shop Channel JP" tvg-logo="https://live.fanmingming.cn/tv/Shop Channel JP.png",Shop Channel JP
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
+http://203.162.235.41:16907/
+#EXTINF:-1 tvg-name="TBS (540p MOV3)" tvg-logo="https://live.fanmingming.cn/tv/TBS (540p MOV3).png",TBS (540p MOV3)
+https://tbs1.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-name="TBS TV" tvg-logo="https://live.fanmingming.cn/tv/TBS TV.png",TBS TV
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-name="TBSテレビ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/TBSテレビ (720p Willfon).png",TBSテレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="Tokyo" tvg-logo="https://live.fanmingming.cn/tv/Tokyo.png",Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-name="Tokyo MX 1" tvg-logo="https://live.fanmingming.cn/tv/Tokyo MX 1.png",Tokyo MX 1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX 2" tvg-logo="https://live.fanmingming.cn/tv/Tokyo MX 2.png",Tokyo MX 2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://live.fanmingming.cn/tv/Tokyo MX1.png",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://live.fanmingming.cn/tv/Tokyo MX1.png",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://live.fanmingming.cn/tv/Tokyo MX2.png",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://live.fanmingming.cn/tv/Tokyo MX2.png",Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-name="TOP" tvg-logo="https://live.fanmingming.cn/tv/TOP.png",TOP
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/87037
+#EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi.png",TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-name="Weather News" tvg-logo="https://live.fanmingming.cn/tv/Weather News.png",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-name="WeatherNews" tvg-logo="https://live.fanmingming.cn/tv/WeatherNews.png",WeatherNews
+https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-name="Wowow Cinefil" tvg-logo="https://live.fanmingming.cn/tv/Wowow Cinefil.png",Wowow Cinefil
+http://203.162.235.41:16916/
+#EXTINF:-1 tvg-name="Wowow Cinema" tvg-logo="https://live.fanmingming.cn/tv/Wowow Cinema.png",Wowow Cinema
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-name="WOWOWシネマ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/WOWOWシネマ (720p Willfon).png",WOWOWシネマ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWプライム (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/WOWOWプライム (720p Willfon).png",WOWOWプライム (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="WOWOWライブ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/WOWOWライブ (720p Willfon).png",WOWOWライブ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="キッズステーション (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/キッズステーション (720p Willfon).png",キッズステーション (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ゴルフネットワーク (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/ゴルフネットワーク (720p Willfon).png",ゴルフネットワーク (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スーパー!ドラマTV (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/スーパー!ドラマTV (720p Willfon).png",スーパー!ドラマTV (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スカイA (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/スカイA (720p Willfon).png",スカイA (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル1 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/スターチャンネル1 (720p Willfon).png",スターチャンネル1 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル2 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/スターチャンネル2 (720p Willfon).png",スターチャンネル2 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="スターチャンネル3 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/スターチャンネル3 (720p Willfon).png",スターチャンネル3 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="チャンネルNECO (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/チャンネルNECO (720p Willfon).png",チャンネルNECO (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="チャンネル銀河 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/チャンネル銀河 (720p Willfon).png",チャンネル銀河 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ朝日 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/テレビ朝日 (720p Willfon).png",テレビ朝日 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="テレビ東京 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/テレビ東京 (720p Willfon).png",テレビ東京 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ファミリー劇場 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/ファミリー劇場 (720p Willfon).png",ファミリー劇場 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="フジテレビ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/フジテレビ (720p Willfon).png",フジテレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ホームドラマチャンネル (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/ホームドラマチャンネル (720p Willfon).png",ホームドラマチャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="ムービープラス (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/ムービープラス (720p Willfon).png",ムービープラス (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="釣りビジョン (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/釣りビジョン (720p Willfon).png",釣りビジョン (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="東映チャンネル (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/東映チャンネル (720p Willfon).png",東映チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="歌謡ポップスチャンネル (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/歌謡ポップスチャンネル (720p Willfon).png",歌謡ポップスチャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="群马" tvg-logo="https://live.fanmingming.cn/tv/群马.png",群马
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24 (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/日テレNEWS24 (720p Willfon).png",日テレNEWS24 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日テレジータス (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/日テレジータス (720p Willfon).png",日テレジータス (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本テレビ (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/日本テレビ (720p Willfon).png",日本テレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="日本新闻" tvg-logo="https://live.fanmingming.cn/tv/日本新闻.png",日本新闻
+https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-name="日本映画専門チャンネル (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/日本映画専門チャンネル (720p Willfon).png",日本映画専門チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="時代劇専門チャンネル (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/時代劇専門チャンネル (720p Willfon).png",時代劇専門チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="囲碁・将棋チャンネル (720p Willfon)" tvg-logo="https://live.fanmingming.cn/tv/囲碁・将棋チャンネル (720p Willfon).png",囲碁・将棋チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
